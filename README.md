@@ -5,10 +5,11 @@
 
 # Sobre o projeto
 
-Este repositório contém a solução para o Desafio de Ciência de Dados da Lighthouse, 2024. O objetivo do desafio é analisar um banco de dados cinematográfico e orientar qual tipo de filme deve ser desenvolvido, além de prever a nota do IMDB para filmes.
-
+Olá! Seja bem vindo a este repositório do desafio de ciência de dados da Indicium. Nele você vai encontrar uma solução para te ajudar na tomada de decisões da indústria cinematográfica.
 
 ## Metodologia Crisp DM Model
+Foi objeto de estudo um conjunto de dados cinematográfico com notas do IMDb - que é uma sigla para Internet Movie Database - é, como o nome sugere, uma base de dados sobre todo tipo de produção audiovisual. É um site que está na ativa desde 1990, quando ainda era operado por um grupo de cinéfilos, e que hoje se tornou uma verdadeira ajuda para todo apaixonado por seriados, filmes e mais..
+
 Este projeto foi desenvolvido utilizando a metodologia Crisp DM - Cross Industry Standard Process for Data Mining, que em português significa algo como “Processo Padrão Inter-Indústrias para Mineração de Dados”. 
 O objetivo dessa metodologia é desenvolver modelos a partir da análise de informações e dados de um negócio para prever futuras falhas e soluções. 
 
