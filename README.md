@@ -31,12 +31,6 @@ Através da análise de dados históricos de bilheteria, preferências do públi
 Referências:
 Portal Uol: https://www.uol.com.br/splash/colunas/na-sua-tela/2024/05/19/cinema-queda-bilheteria-publico-2024.htm?cmpid=copiaecola
 
-## A Solução
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-## Principais Insights
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 # Tecnologias utilizadas
 ## Código
@@ -47,9 +41,9 @@ bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 # Como executar o projeto
 
-Você pode abrir diretamente no [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renan-ras/LH_CD/blob/main/LH_CD.ipynb)
+Você pode abrir diretamente no [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/eumoas/LH_CD_MiriamAguiarSobral_IMDb/blob/main/LH_CD_MIRIAMAGUIARSOBRAL.ipynb))
 
-Certifique-se de ajustar a variável filepath de acordo com onde salvou o arquivo de teste 'teste_indicium_precificacao.csv'
+Certifique-se de ajustar a variável filepath de acordo com onde salvou o arquivo de teste 'desafio_indicium_imdb.csv'
 
 OU
 
