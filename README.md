@@ -37,11 +37,12 @@ Portal Uol: https://www.uol.com.br/splash/colunas/na-sua-tela/2024/05/19/cinema-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Relatório
-- Canva
+- Relatório Canva https://www.canva.com/design/DAGLVuQC59s/pxiw7R0T4bMHJ_XAOLiTcQ/edit
+  
 
 # Como executar o projeto
 
-Você pode abrir diretamente no [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/eumoas/LH_CD_MiriamAguiarSobral_IMDb/blob/main/LH_CD_MIRIAMAGUIARSOBRAL.ipynb))
+Você pode abrir diretamente no [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 Certifique-se de ajustar a variável filepath de acordo com onde salvou o arquivo de teste 'desafio_indicium_imdb.csv'
 
