@@ -8,10 +8,9 @@
 Olá! Seja bem vindo a este repositório do desafio de ciência de dados da Indicium. Nele você vai encontrar uma solução para te ajudar na tomada de decisões da indústria cinematográfica.
 
 ## Metodologia Crisp DM Model
-Foi objeto de estudo um conjunto de dados cinematográfico com notas do IMDb - que é uma sigla para Internet Movie Database - é, como o nome sugere, uma base de dados sobre todo tipo de produção audiovisual. É um site que está na ativa desde 1990, quando ainda era operado por um grupo de cinéfilos, e que hoje se tornou uma verdadeira ajuda para todo apaixonado por seriados, filmes e mais..
+Foi objeto de estudo um conjunto de dados cinematográfico com notas do IMDb - que é uma sigla para Internet Movie Database -  como o nome sugere, uma base de dados sobre todo tipo de produção audiovisual. É um site que está na ativa desde 1990, quando ainda era operado por um grupo de cinéfilos, e que hoje se tornou uma verdadeira ajuda para todo apaixonado por seriados, filmes e mais.
 
-Este projeto foi desenvolvido utilizando a metodologia Crisp DM - Cross Industry Standard Process for Data Mining, que em português significa algo como “Processo Padrão Inter-Indústrias para Mineração de Dados”. 
-O objetivo dessa metodologia é desenvolver modelos a partir da análise de informações e dados de um negócio para prever futuras falhas e soluções. 
+Utilizou-se a metodologia Crisp DM - Cross Industry Standard Process for Data Mining, que em português significa algo como “Processo Padrão Inter-Indústrias para Mineração de Dados”. O objetivo é desenvolver modelos a partir da análise de informações e dados de um negócio para prever futuras falhas e soluções. 
 
 Composta por 6 etapas, ela inclui descrições das fases típicas de um projeto, as tarefas envolvidas em cada fase e uma explicação dos relacionamentos entre essas tarefas. Como um modelo de processo, o CRISP-DM fornece uma visão geral do ciclo de vida da mineração de dados.
 
