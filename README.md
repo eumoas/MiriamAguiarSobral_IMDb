@@ -30,16 +30,43 @@ Através da análise de dados históricos de bilheteria, preferências do públi
 Referências:
 Portal Uol: https://www.uol.com.br/splash/colunas/na-sua-tela/2024/05/19/cinema-queda-bilheteria-publico-2024.htm?cmpid=copiaecola
 
+## Dicionário
+
+Id Colunas: Descrição
+01 Series_Title: Nome do filme
+02 Released_Year: Ano de lançamento
+03 Certificate: Classificação etária
+04 Runtime: Tempo de duração
+05 Genre: Gênero
+06 IMDB_Rating: Nota do IMDB
+07 Overview: Overview do filme
+08 Meta_score: Média ponderada de todas as críticas
+09 Director: Diretor
+10 Star1: Ator/atriz #1
+11 Star2: Ator/atriz #2
+12 Star3: Ator/atriz #3
+13 Star4: Ator/atriz #4
+14 No_of_Votes: Número de votos
+15 Gross: Faturamento
+
+
+## Entregas do projeto
+
+Produto A: Análise exploratória de dados (EDA)
+Produto B: Achados e insights
+Produto C: Modelagem Preditiva
+Produto D: Teste do modelo
+Produto E: Arquivo salvo.pkl
+Produto F: Repositório GITHUB
+
 
 # Tecnologias utilizadas
+
 ## Código
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Relatório
-- Relatório Canva https://www.canva.com/design/DAGLVuQC59s/pxiw7R0T4bMHJ_XAOLiTcQ/edit
-  
 
-# Como executar o projeto
+## Como executar o projeto
 
 Você pode abrir diretamente no [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1HltbtqTZrbNjZ7cC2vGoNdjkIzjPBJyO#scrollTo=GdvReh0gXD5w
 
@@ -68,7 +95,10 @@ Quando ativado irá aparecer uma flag como o nome do ambiente virtual na frente 
  pip install -r requirements.txt
 
 ```
+# Relatório
 
+- Relatório Canva https://www.canva.com/design/DAGLVuQC59s/pxiw7R0T4bMHJ_XAOLiTcQ/edit
+  
 # Autor
 
 Miriam O. A . Sobral
