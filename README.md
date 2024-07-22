@@ -32,32 +32,32 @@ Portal Uol: https://www.uol.com.br/splash/colunas/na-sua-tela/2024/05/19/cinema-
 
 ## Dicionário
 
-Id Colunas: Descrição
-01 Series_Title: Nome do filme
-02 Released_Year: Ano de lançamento
-03 Certificate: Classificação etária
-04 Runtime: Tempo de duração
-05 Genre: Gênero
-06 IMDB_Rating: Nota do IMDB
-07 Overview: Overview do filme
-08 Meta_score: Média ponderada de todas as críticas
-09 Director: Diretor
-10 Star1: Ator/atriz #1
-11 Star2: Ator/atriz #2
-12 Star3: Ator/atriz #3
-13 Star4: Ator/atriz #4
-14 No_of_Votes: Número de votos
-15 Gross: Faturamento
+* 01 Id Colunas: Descrição
+* 02 Series_Title: Nome do filme
+* 03 Released_Year: Ano de lançamento
+* 04 Certificate: Classificação etária
+* 05 Runtime: Tempo de duração
+* 06 Genre: Gênero
+* 07 IMDB_Rating: Nota do IMDB
+* 08 Overview: Overview do filme
+* 09 Meta_score: Média ponderada de todas as críticas
+* 10 Director: Diretor
+* 11 Star1: Ator/atriz #1
+* 12 Star2: Ator/atriz #2
+* 13 Star3: Ator/atriz #3
+* 14 Star4: Ator/atriz #4
+* 15 No_of_Votes: Número de votos
+* 16 Gross: Faturamento
 
 
 ## Entregas do projeto
 
-Produto A: Análise exploratória de dados (EDA)
-Produto B: Achados e insights
-Produto C: Modelagem Preditiva
-Produto D: Teste do modelo
-Produto E: Arquivo salvo.pkl
-Produto F: Repositório GITHUB
+* Produto A: Análise exploratória de dados (EDA)
+* Produto B: Achados e insights
+* Produto C: Modelagem Preditiva
+* Produto D: Teste do modelo
+* Produto E: Arquivo salvo.pkl
+* Produto F: Repositório GITHUB
 
 
 # Tecnologias utilizadas
