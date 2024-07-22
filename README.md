@@ -89,7 +89,6 @@ Após criar o ambiente virtual, é necessário ativá-lo.
 .\venv\Scripts\Active.ps1 no Windows PowerShell ou VsCode;
 source venv/bin/activate no Linux;
 source venv/Scripts/activate em bash no Windows.
-Quando ativado irá aparecer uma flag como o nome do ambiente virtual na frente do nome do usuário.
 
 # Instale as dependências
  pip install -r requirements.txt
