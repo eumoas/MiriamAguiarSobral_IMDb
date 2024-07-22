@@ -41,7 +41,8 @@ Portal Uol: https://www.uol.com.br/splash/colunas/na-sua-tela/2024/05/19/cinema-
 
 # Como executar o projeto
 
-Você pode abrir diretamente no [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+Você pode abrir diretamente no [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1HltbtqTZrbNjZ7cC2vGoNdjkIzjPBJyO#scrollTo=GdvReh0gXD5w
+
 
 Certifique-se de ajustar a variável filepath de acordo com onde salvou o arquivo de teste 'desafio_indicium_imdb.csv'
 
@@ -49,16 +50,21 @@ OU
 
 ```bash
 # clonar repositório
-git clone https://github.com/eumoas/IMDb
 
-# Navegue até a pasta do projeto clonado:
-    cd LH_CD_MIRIAMAGUIARSOBRAL
+[https://github.com/eumoas/LH_CD_MiriamAguiarSobral_IMDb]
 
 # Criando ambientes virtuais (Opcional):
-    python -m venv nome-env
-    cd nome-env\Scripts\activate
+python -m venv venv
 
-Instale as dependências
+# Ativar o ambiente virtual:
+Após criar o ambiente virtual, é necessário ativá-lo.
+
+.\venv\Scripts\Active.ps1 no Windows PowerShell ou VsCode;
+source venv/bin/activate no Linux;
+source venv/Scripts/activate em bash no Windows.
+Quando ativado irá aparecer uma flag como o nome do ambiente virtual na frente do nome do usuário.
+
+# Instale as dependências
  pip install -r requirements.txt
 
 ```
